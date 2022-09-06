@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 ___________________________________________
 
-_ fack freand always madarchod 
+_fack freand always madarchod 
 - 📫 How to reach me ...
 
 <!---
