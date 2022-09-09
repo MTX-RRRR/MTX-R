@@ -5,7 +5,10 @@
 ___________________________________________
 
 -fack  freand  always madarchod
--apna time ayaga
+-freand not my world but
+
+-my father is my world
+
 -
 - 📫 How to reach me ...
 
