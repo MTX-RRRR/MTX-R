@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 ___________________________________________
 
--fack  freand  always madarchod
+-silent killer 
+
+-team member_
+-
 
 -
--my freand not my world but
-
--my father is my world
 
 -
 - 📫 How to reach me ...
