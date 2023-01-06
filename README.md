@@ -6,11 +6,10 @@ Anonymous </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtx-r&label=Profile%20views&color=0e75b6&style=flat" alt="mtx-r" /> </p>
 
-_new ="https://mega.nz/file/7ZYghY6B#KbL3YVUTpn55RcnmeMzN3e63ipOizm3yRJ7Lu_6awBE"
 
-- 📫 How to reach me **https://apkadmin.com/eu8u7h696erf/client.apk.html**
+- 📫 How to reach me ****
 - 
--  📫 brave toxic virus **https://apkadmin.com/l9bpv81slgi0/ready.apk.html**
+-  📫 brave toxic virus ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
