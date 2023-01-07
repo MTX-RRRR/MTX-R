@@ -35,6 +35,8 @@ cheak this--
 
 -{m}""virus-"https://apkadmin.com/eu8u7h696erf/client.apk.html" private
              
-             android 10-
+             android 10- hidden
 
- -{B} 7.8-"https://apkadmin.com/ejyttdg7kqyl/ready.apk.html"
+ -{c} 7.8-""
+ 
+ -{b} 7.8-""
