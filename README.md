@@ -37,6 +37,6 @@ cheak this--
              
              android 7 
 
- -{c} 7.8-""
+ -{c} 7.8-"" coming soon
  
  -{b} 7.8-"https://apkadmin.com/onpdl1nglmd0/brat_signed.apk.html"
