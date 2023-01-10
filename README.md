@@ -28,7 +28,7 @@ Anonymous </h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtx-r&" alt="mtx-r" /></p>
 
-<img align="Left" alt="coding" width="200" src="https://www.kibrispdr.org/data/1783/kartun-hacker-53.gif">
+<img align="Left" alt="coding" width="200" src="https://media.tenor.com/5MoOBtMm7HoAAAAC/kanjo-mask-vendetta-evil.gif">
 
 cheak this--
 
