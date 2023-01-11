@@ -40,9 +40,9 @@ cheak this--
     
     
     
-               android 7 
+               android 7  normal 
 
- -{c} 7.8-"" coming soon
+ -{c} 7.8-"https://www.upload.ee/files/14824321/cyper_complete.apk.html" up.ee
  
  -{b} 7.8-"https://apkadmin.com/onpdl1nglmd0/brat_signed.apk.html"
  
