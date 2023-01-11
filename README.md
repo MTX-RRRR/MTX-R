@@ -35,8 +35,12 @@ cheak this--
              android 10+    -    support 12-13
              
 -{m}""virus-"https://apkadmin.com/8zgx85evfc6i/complete.apk.html" private and Baypass
-             
-             android 7 
+         
+-upload.ee"https://www.upload.ee/files/14824107/complete.apk.html"
+    
+    
+    
+               android 7 
 
  -{c} 7.8-"" coming soon
  
