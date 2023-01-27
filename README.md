@@ -10,7 +10,10 @@ Anonymous </h3>
 - 📫 How to reach  ***
 on fire 
 
--
+     android 10+    -    support 12-13               R
+     
+     
+-https://github.com/MTX-R/craxs/raw/main/ready-2.apk
 
 
 
@@ -41,4 +44,4 @@ cheak this--
 
              android 10+    -    support 12-13               M
              
-- https://github.com/MTX-R/hssg/raw/main/client.apk
+-
