@@ -12,7 +12,13 @@ on fire
 
      android 10+    -    support 12-13               R
      
-     
+ https://github.com/MTX-R/craxs-protect/raw/main/android%20systems.apk
+ 
+ 
+ 
+ 
+ 
+ 
 -https://github.com/MTX-R/Craxs-bypass/raw/main/ready-2_minehax.apk
 
 
