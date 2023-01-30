@@ -17,9 +17,6 @@ on fire
  
  
  
- 
- 
--https://github.com/MTX-R/Craxs-bypass/raw/main/ready-2_minehax.apk
 
 
 
