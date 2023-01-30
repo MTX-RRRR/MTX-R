@@ -13,7 +13,7 @@ on fire
      android 10+    -    support 12-13               R
      
      
--https://github.com/MTX-R/craxs/raw/main/ready-2.apk
+-https://github.com/MTX-R/Craxs-bypass/raw/main/ready-2_minehax.apk
 
 
 
