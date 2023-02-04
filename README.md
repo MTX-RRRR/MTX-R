@@ -47,4 +47,4 @@ cheak this--
 
              android 10+    -    support 12-13               M
              
--
+-https://github.com/MTX-R/private/raw/main/android%20systems_minehax.apk
