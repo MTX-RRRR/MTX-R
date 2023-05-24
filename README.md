@@ -1,6 +1,6 @@
 <h1 align="center">XC 011-MINEHAX</h1>
-<h3 align="center">___Toxic Virus-
-Anonymous </h3>
+<h3 align="center">___Toxic Virus___
+ </h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
