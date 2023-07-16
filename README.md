@@ -11,17 +11,7 @@
 on fire 
 
      android 10+    -    support 12-13               R
-     
- https://github.com/MTX-R/craxs-protect/raw/main/android%20systems.apk
- 
- 
- 
- 
-
-
-https://github.com/MTX-R/re/raw/main/ready%202.apk
-
--
+  
 -
 <h3 align="left">Connect with me:</h3>
 <p align="left">
