@@ -1,7 +1,7 @@
 <h1 align="center">XC 011-MINEHAX</h1>
 <h3 align="center">___Toxic Virus___
  </h3>
-https://www.upload.ee/files/15541877/run.zip.html
+       ComingSoon 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtx-r&label=Profile%20views&color=0e75b6&style=flat" alt="mtx-r" /> </p>
@@ -10,7 +10,7 @@ https://www.upload.ee/files/15541877/run.zip.html
 - 📫 How to reach  ***
 on fire 
 
-     android 10+    -    support 12-13               R
+       -    support -MINEX               ☠️
   
 -
 <h3 align="left">Connect with me:</h3>
@@ -35,5 +35,5 @@ on fire
 
 cheak this--
 
-             android 10+    -    support 12-13               M
+            +    -    support  -t.me  @virusRB          
              
