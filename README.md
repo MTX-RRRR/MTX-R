@@ -10,7 +10,7 @@
 - 📫 How to reach  ***
 on fire
 
-https://github.com/MTX-R/hidden/blob/main/hidden.apk
+soon
 
 
 
