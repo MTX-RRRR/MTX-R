@@ -11,7 +11,7 @@
 on fire
 
 soon
-
+6952843089:AAGToKJ8HSIkI8WoRWqrVbcQlrzGei6guXA
 
 
        -    support -MINEX               ☠️
