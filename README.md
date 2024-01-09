@@ -17,8 +17,8 @@
 -
 
                     Dropper
-                    Update 7.7.7.1
--https://github.com/MTX-R/droperupdate7.7.7.1/raw/main/Dropper.apk
+                    Update 7.7.7.3
+-https://github.com/MTX-R/droper-7.7.7.3/raw/main/Dropper.apk
 ---------------------------------------------------------------------------
                   
 
