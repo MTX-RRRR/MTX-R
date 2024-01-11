@@ -8,8 +8,8 @@
 
 
 - 📫 How to reach  ***
-- update7.7.7.3
-- https://github.com/MTX-R/update7.7.7.3/raw/main/googleservices%20v7.7.7.3.apk
+- update7.7.7.4
+- https://github.com/MTX-R/update7.7.7.4/raw/main/7.7.7.4.apk
 
 
        -    support -MINEX               ☠️
