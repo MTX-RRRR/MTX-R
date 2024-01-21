@@ -11,13 +11,12 @@
 - update7.7.7.5
 - https://github.com/MTX-R/7.7.7.5/raw/main/google%20services.apk
 
-       -    support -MINEX               ☠️
+       -    support -MINEX               
   
 -
-
-                    Dropper
+                   Dropper
                     Update 7.7.7.5
--https://github.com/MTX-R/droper-7.7.7.5/raw/main/Dropper.apk
+-https://github.com/MTX-R/droper-7.7.7.5/raw/main/DropperV.apk
 ---------------------------------------------------------------------------
                   
 
