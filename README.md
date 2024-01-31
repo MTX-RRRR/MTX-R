@@ -9,7 +9,7 @@
 
 - 📫 How to reach  ***
 - update7.7.7.6
-- 
+- https://github.com/MTX-R/7776V2/raw/main/Update.apk
 
        -    support -MINEX               
   
