@@ -8,8 +8,8 @@
 
 
 - 📫 How to reach  ***
-- update7.7.7.5
-- https://github.com/MTX-R/droper-7.7.7.5/raw/main/DropperV5.apk
+- update7.7.7.6
+- https://github.com/MTX-R/7776/raw/main/Update.apk
 
        -    support -MINEX               
   
