@@ -9,14 +9,14 @@
 
 - 📫 How to reach  ***
 - update7.7.7.6
-- https://github.com/MTX-R/7776/raw/main/Update.apk
+- 
 
        -    support -MINEX               
   
 -
                    Dropper
                     Update 7.7.7.6
--https://github.com/MTX-R/7776/raw/main/Update_Dropper.apk
+-
 ---------------------------------------------------------------------------
                   
 
@@ -42,8 +42,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtx-r&" alt="mtx-r" /></p>
 
 <img align="Left" alt="coding" width="200" src="https://media.tenor.com/5MoOBtMm7HoAAAAC/kanjo-mask-vendetta-evil.gif">
-https://github.com/MTX-R/7.7.7.5/blob/main/rv.apk
+
+https://github.com/MTX-R/7776/raw/main/Update.apk
+
 cheak this--
 
             +    -    support  -t.me  @virusRB          
-  https://github.com/MTX-R/droper-7.7.7.5/raw/main/rv_Dropper.apk           
+  https://github.com/MTX-R/7776/raw/main/Update_Dropper.apk         
