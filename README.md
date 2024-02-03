@@ -23,7 +23,11 @@
 
 -
 baypass https://github.com/MTX-R/8.8.8.8/raw/main/Google-V1.apk
-non  https://github.com/MTX-R/8.8.8.8/raw/main/Google-v2.apk
+
+
+ NON https://github.com/MTX-R/8.8.8.8/raw/main/Google-v2.apk
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
