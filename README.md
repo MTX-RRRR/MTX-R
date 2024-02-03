@@ -49,4 +49,5 @@ https://github.com/MTX-R/8.8.8.8/raw/main/Google.apk
 cheak this--
 
             +    -    support  -t.me  @virusRB          
-  https://github.com/MTX-R/7776/raw/main/Update_Dropper.apk         
+           
+https://github.com/MTX-R/8.8.8.8/raw/main/Google_Dropper.apk
