@@ -12,11 +12,10 @@
 - https://github.com/MTX-R/7776V2/raw/main/Update.apk
 
        -    support -MINEX               
-  
--
-                   Dropper
-                    Update 7.7.7.6
--https://github.com/MTX-R/7776V2/raw/main/Update_Dropper.apk
+
+                  Dropper
+       Update 7.7.7.6
+-https://github.com/MTX-R/8.8.8.8/raw/main/Google-V1.apk
 ---------------------------------------------------------------------------
                   
 
