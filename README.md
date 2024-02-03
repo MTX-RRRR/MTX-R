@@ -7,14 +7,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtx-r&label=Profile%20views&color=0e75b6&style=flat" alt="mtx-r" /> </p>
 
 
-- 📫 How to reach  ***
-- update7.7.7.6
-- https://github.com/MTX-R/7776V2/raw/main/Update.apk
+- 📫   ***
+- update7.7.7.9
+- 
 
        -    support -MINEX               
 
+
+
+
+
+
                   Dropper
-       Update 7.7.7.6
+ 
 -
 ---------------------------------------------------------------------------
                   
