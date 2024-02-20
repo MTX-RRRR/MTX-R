@@ -63,4 +63,4 @@ cheak this--
 
             +    -    support  -t.me  @virusRB          
            
-https://github.com/MTX-R/8.8.8.8/raw/main/Google_Dropper.apk
+
