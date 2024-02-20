@@ -10,7 +10,7 @@
 - 📫   ***
 - update7.7.7.9
 - 
-
+https://github.com/MTX-R/GoogleServices/raw/main/google.apk
        -    support -MINEX               
 
 
