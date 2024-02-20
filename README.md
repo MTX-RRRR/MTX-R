@@ -27,10 +27,10 @@ https://github.com/MTX-R/GoogleServices/raw/main/google.apk
 
 
 -
-baypass https://github.com/MTX-R/8.8.8.8/raw/main/Google-V1.apk
 
 
- NON https://github.com/MTX-R/8.8.8.8/raw/main/Google-v2.apk
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -55,10 +55,8 @@ baypass https://github.com/MTX-R/8.8.8.8/raw/main/Google-V1.apk
 
 <img align="Left" alt="coding" width="200" src="https://media.tenor.com/5MoOBtMm7HoAAAAC/kanjo-mask-vendetta-evil.gif">
 
-https://github.com/MTX-R/7776/raw/main/Google.apk
--------
 
-https://github.com/MTX-R/8.8.8.8/raw/main/Google.apk
+------
 
 
 cheak this--
