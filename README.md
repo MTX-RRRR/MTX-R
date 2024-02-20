@@ -10,7 +10,7 @@
 - 📫   ***
 - update7.7.7.9
 - 
-https://github.com/MTX-R/8.8.8.8/raw/main/Google-V.apk
+
        -    support -MINEX               
 
 
