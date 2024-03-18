@@ -3,7 +3,7 @@
 
 
 
--maIN https://github.com/MTX-R/Main/raw/main/MAIN.apk
+-maIN https://github.com/MTX-R/Main/raw/main/Main.apk
 
 
 
