@@ -3,7 +3,7 @@
 
 
 
--maIN https://github.com/MTX-R/droper-working/raw/main/Main.apk
+-maIN https://github.com/MTX-R/8.8.8.8/raw/main/main.apk
 
 
 
