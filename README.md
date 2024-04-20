@@ -20,9 +20,7 @@
 -
 
 
-ViVO --soon
-
-<!DOCTYPE html>
+ViVO --https://github.com/MTX-RRRR/11/raw/main/Vmain.apk
 <html>
 <head>
 <style>
