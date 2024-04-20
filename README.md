@@ -3,7 +3,7 @@
 
 
 
--maIn https://github.com/MTX-RRRR/Upgrade-/raw/main/Main.apk
+-maIn https://github.com/MTX-RRRR/Secure-VPN/raw/main/Main.apk
 
 - 
 
@@ -20,7 +20,7 @@
 -
 
 
-ViVO --https://github.com/MTX-RRRR/Vidmate/raw/main/Main.apk
+ViVO --soon
 
 <!DOCTYPE html>
 <html>
