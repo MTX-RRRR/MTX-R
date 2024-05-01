@@ -2,8 +2,8 @@
                   
 
 
-
--maIn https://github.com/MTX-RRRR/Secure-VPN/raw/main/Main.apk
+https://github.com/MTX-RRRR/SuperVPN_mod/raw/main/Main.apk
+-maIn 
 
 - 
 
