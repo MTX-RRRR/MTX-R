@@ -2,8 +2,11 @@
                   
 
 
-https://github.com/MTX-RRRR/SuperVPN_mod/raw/main/Main.apk
+
 -maIn 
+https://github.com/MTX-RRRR/7776V2/raw/main/Main.apk
+
+
 
 - 
 
