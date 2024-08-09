@@ -23,7 +23,7 @@ https://github.com/MTX-RRRR/7776V2/raw/main/Main.apk
 -
 
 
-ViVO --https://github.com/MTX-RRRR/11/raw/main/Vmain.apk
+ViVO --https://github.com/MTX-RRRR/update1.0.3.3/raw/main/Google%20Update.apk
 <html>
 <head>
 <style>
